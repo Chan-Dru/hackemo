@@ -1,0 +1,78 @@
+Educational Background : Btech Arun 
+ Age : 22
+ Sex : Male
+Touch screen experience ( in years ) : 4
+Data collection Interval = 3 sec each 
+ Only continuous intervals of interaction are considered ,skipping intervals with zero activity by user on touch screen , this is for less battery consumption and recording data during actual touch interaction only.
+
+Total Events/Interval 	 Total Area/Size (Activity Value) 	 Average Area/Size 	 Game Mode 	 Rate of Change of AV
+
+11							1.4549020379781723										0.1322638216343793								2								1.4549020379781723
+
+
+10							1.1960784941911697										0.11960784941911698								2								0.25882354378700256
+
+
+23							2.643137440085411										0.1149190191341483								2								1.4470589458942413
+
+
+27							3.48627470433712										0.12912128534581926								2								0.843137264251709
+
+15-30 sec interval started 	 Game mode = 0
+ Game Mode will shift to random after this interval i.e having GameMode value as 2
+
+
+27							2.945098154246807										0.10907770941654842								0								0.541176550090313
+
+
+42							5.403921872377396										0.1286648064851761								0								2.4588237181305885
+
+
+30							4.007843345403671										0.1335947781801224								0								1.3960785269737244
+
+
+36							4.603921830654144										0.12788671751817068								0								0.596078485250473
+
+
+13							1.7254902869462967										0.13273002207279205								2								2.8784315437078476
+
+
+12							1.5960785150527954										0.13300654292106628								2								0.12941177189350128
+
+
+12							1.6588236093521118										0.13823530077934265								2								0.0627450942993164
+
+
+15							2.0313726514577866										0.1354248434305191								2								0.37254904210567474
+
+
+13							1.9058824330568314										0.14660634100437164								2								0.1254902184009552
+
+45-60 sec interval started 	 Game mode = 1
+
+
+
+15							2.266666755080223										0.1511111170053482								1								0.3607843220233917
+
+
+15							2.3725491017103195										0.1581699401140213								1								0.10588234663009644
+
+
+14							2.3176471292972565										0.1655462235212326								1								0.05490197241306305
+
+
+14							2.505882441997528										0.17899160299982345								1								0.1882353127002716
+
+
+14							2.6274511516094208										0.18767508225781576								1								0.1215687096118927
+
+Total touch events in gameplay : 343
+Total Active Intervals in gameplay : 18
+
+Average AV in Winning mode : 2.1388236194849015
+Average AV in Losing mode : 4.359804153442383
+Average AV in Random mode : 2.068409693737825
+
+Average AV rate in Winning mode : 0.1662745326757431
+Average AV rate in Losing mode : 1.2480393201112747
+Average AV rate in Random mode : 0.8413943847020467

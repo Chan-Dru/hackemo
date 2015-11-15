@@ -1,0 +1,151 @@
+Educational Background : btech paddy 
+ Age : 20
+ Sex : Female
+Touch screen experience ( in years ) : 3
+Data collection Interval = 3 sec each 
+ Only continuous intervals of interaction are considered ,skipping intervals with zero activity by user on touch screen , this is for less battery consumption and recording data during actual touch interaction only.
+
+Total Events/Interval 	 Total Area/Size (Activity Value) 	 Average Area/Size 	 Game Mode
+
+23							3.2313733										0.1404945								2
+
+
+29							3.0156863										0.103989184								2
+
+
+23							2.9176471										0.12685423								2
+
+
+30							3.5921571										0.11973857								2
+
+15-30 sec interval started 	 Game mode = 1
+ Game Mode will shift to random after this interval i.e having GameMode value as 2
+
+
+10							1.4705882										0.14705881								1
+
+
+10							1.4627453										0.14627454								1
+
+
+18							2.6431372										0.14684096								1
+
+
+13							1.6588237										0.12760183								1
+
+
+26							4.282353										0.16470589								2
+
+
+28							3.619609										0.12927176								2
+
+
+27							3.8235304										0.14161223								2
+
+
+22							2.7176478										0.12352944								2
+
+
+8							0.8901961										0.11127451								2
+
+45-60 sec interval started 	 Game mode = 0
+
+
+
+11							1.1764706										0.10695188								0
+
+
+37							4.1803923										0.11298358								0
+
+
+41							4.639217										0.11315163								0
+
+
+40							4.5058827										0.11264707								0
+
+Educational Background : btech paddy 
+ Age : 20
+ Sex : Female
+Touch screen experience ( in years ) : 3
+Data collection Interval = 3 sec each 
+ Only continuous intervals of interaction are considered ,skipping intervals with zero activity by user on touch screen , this is for less battery consumption and recording data during actual touch interaction only.
+
+Total Events/Interval 	 Total Area/Size (Activity Value) 	 Average Area/Size 	 Game Mode
+Educational Background : btech paddy 
+ Age : 20
+ Sex : Female
+Touch screen experience ( in years ) : 3
+Data collection Interval = 3 sec each 
+ Only continuous intervals of interaction are considered ,skipping intervals with zero activity by user on touch screen , this is for less battery consumption and recording data during actual touch interaction only.
+
+Total Events/Interval 	 Total Area/Size (Activity Value) 	 Average Area/Size 	 Game Mode
+Educational Background : btech paddy 
+ Age : 20
+ Sex : Female
+Touch screen experience ( in years ) : 3
+Data collection Interval = 3 sec each 
+ Only continuous intervals of interaction are considered ,skipping intervals with zero activity by user on touch screen , this is for less battery consumption and recording data during actual touch interaction only.
+
+Total Events/Interval 	 Total Area/Size (Activity Value) 	 Average Area/Size 	 Game Mode
+
+27							3.156864										0.11692089								2
+
+
+8							1.0588236										0.13235295								2
+
+
+8							0.9647059										0.120588236								2
+
+
+21							2.2666674										0.10793654								2
+
+15-30 sec interval started 	 Game mode = 0
+ Game Mode will shift to random after this interval i.e having GameMode value as 2
+
+
+27							2.3176477										0.0858388								0
+
+
+37							3.5137265										0.09496558								0
+
+
+40							3.8156881										0.095392205								0
+
+
+41							4.6117654										0.112482086								0
+
+
+38							4.458824										0.11733748								2
+
+
+30							3.1843147										0.106143825								2
+
+
+47							4.819609										0.102544874								2
+
+
+10							1.082353										0.1082353								2
+
+
+10							1.1686275										0.11686275								2
+
+45-60 sec interval started 	 Game mode = 1
+
+
+
+25							2.4784312										0.09913725								1
+
+
+24							3.3019605										0.13758169								1
+
+
+36							6.439217										0.17886715								1
+
+
+34							6.5294113										0.19204152								1
+
+Total touch events in gameplay : 497
+Total Active Intervals in gameplay : 17
+Average AV in Winning mode : 0.17113726605971655
+Average AV in Losing mode : 0.09885511812347694
+Average AV in Random mode : 0.11111111908850044

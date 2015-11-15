@@ -1,0 +1,75 @@
+Educational Background : btech ku 
+ Age : 25
+ Sex : Male
+Touch screen experience ( in years ) : 3
+Data collection Interval = 3 sec each 
+ Only continuous intervals of interaction are considered ,skipping intervals with zero activity by user on touch screen , this is for less battery consumption and recording data during actual touch interaction only.
+
+Total Events/Interval 	 Total Area/Size (Activity Value) 	 Average Area/Size 	 Game Mode 	 Rate of Change of AV
+
+35							5.698039457201958										0.16280112734862737								2								5.698039457201958
+
+
+39							6.666667014360428										0.17094017985539559								2								0.9686275571584702
+
+
+22							3.5372550189495087										0.16078431904315948								2								3.129411995410919
+
+
+47							7.388235718011856										0.15719650463855012								2								3.8509806990623474
+
+15-30 sec interval started 	 Game mode = 0
+ Game Mode will shift to random after this interval i.e having GameMode value as 2
+
+
+25							3.4470590204000473										0.1378823608160019								0								3.9411766976118088
+
+
+43							6.26274536550045										0.14564524105815								0								2.815686345100403
+
+
+37							5.341176703572273										0.14435612712357496								0								0.9215686619281769
+
+
+45							6.8470590859651566										0.15215686857700347								0								1.5058823823928833
+
+
+40							5.6862747594714165										0.14215686898678542								2								1.16078432649374
+
+
+32							5.098039381206036										0.1593137306626886								2								0.5882353782653809
+
+
+47							7.364706173539162										0.15669587603274812								2								2.266666792333126
+
+
+31							3.7176472917199135										0.11992410618451334								2								3.647058881819248
+
+
+18							2.960784412920475										0.1644880229400264								2								0.7568628787994385
+
+45-60 sec interval started 	 Game mode = 1
+
+
+
+44							6.941176876425743										0.1577540199187669								1								3.980392463505268
+
+
+54							8.38431403040886										0.1552650746372011								1								1.4431371539831161
+
+
+26							4.274509951472282										0.1644042289027801								1								4.109804078936577
+
+
+48							8.48627495765686										0.1767973949511846								1								4.211765006184578
+
+Total touch events in gameplay : 653
+Total Active Intervals in gameplay : 17
+
+Average AV in Winning mode : 7.906863145530224
+Average AV in Losing mode : 5.964706145226955
+Average AV in Random mode : 5.150762759976917
+
+Average AV rate in Winning mode : 3.4362746756523848
+Average AV rate in Losing mode : 2.296078521758318
+Average AV rate in Random mode : 2.4518519962827363

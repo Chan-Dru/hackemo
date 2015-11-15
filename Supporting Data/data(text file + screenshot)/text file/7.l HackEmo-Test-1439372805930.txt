@@ -1,0 +1,67 @@
+Educational Background : btech john 
+ Age : 19
+ Sex : Male
+Touch screen experience ( in years ) : 2
+Data collection Interval = 3 sec each 
+ Only continuous intervals of interaction are considered ,skipping intervals with zero activity by user on touch screen , this is for less battery consumption and recording data during actual touch interaction only.
+
+Total Events/Interval 	 Total Area/Size (Activity Value) 	 Average Area/Size 	 Game Mode
+
+3							0.2509804										0.08366013								2
+
+
+54							6.4431396										0.1193174								2
+
+
+44							3.7254906										0.08467024								2
+
+15-30 sec interval started 	 Game mode = 1
+ Game Mode will shift to random after this interval i.e having GameMode value as 2
+
+
+29							2.658824										0.09168358								1
+
+
+8							1.054902										0.13186274								1
+
+
+12							1.4392157										0.11993464								1
+
+
+18							2.2745104										0.12636168								1
+
+
+36							5.200001										0.14444447								2
+
+
+20							3.3568625										0.16784313								2
+
+
+46							6.2196116										0.13520895								2
+
+
+10							1.7490199										0.17490199								2
+
+
+21							2.705883										0.12885158								2
+
+45-60 sec interval started 	 Game mode = 0
+
+
+
+27							3.694117										0.13681915								0
+
+
+44							5.77647										0.13128342								0
+
+
+37							4.658825										0.12591419								0
+
+
+19							1.9058824										0.100309595								0
+
+Total touch events in gameplay : 446
+Total Active Intervals in gameplay : 16
+Average AV in Winning mode : 0.11194771766662598
+Average AV in Losing mode : 0.13041939596749014
+Average AV in Random mode : 0.127045010154993
